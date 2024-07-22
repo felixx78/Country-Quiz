@@ -23,7 +23,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/v1st78/Country-Quiz
+  git clone https://github.com/felixx78/Country-Quiz
 ```
 
 Go to the project directory
